@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/cryptoapp/static/js/main.1950524c.js",
+    "static/media/background.jpg": "/cryptoapp/static/media/background.034425238cefb414a454.jpg",
+    "index.html": "/cryptoapp/index.html",
+    "main.1950524c.js.map": "/cryptoapp/static/js/main.1950524c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1950524c.js"
+  ]
+}
